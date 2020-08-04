@@ -6,6 +6,10 @@
 
 <p> Essa aplicação foi desenvolvida na trilha <strong>Omnistack</strong> da <strong>Next Level Week #2</strong> distribuída pela Rocketseat.</p>
 
+<p>A web foi desenvolvida utilizando a metodologia <strong>mobile first</strong>, assim já está preparado para suportar diferentes plataformas.<p>
+
+<img src="./tmp/print.png" alt="Print"/>
+
 <h2> 🚀 Techs </h2>
 <ul>
     <li>React</li>
