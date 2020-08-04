@@ -8,7 +8,7 @@
 
 <p>A web foi desenvolvida utilizando a metodologia <strong>mobile first</strong>, assim já está preparado para suportar diferentes plataformas.<p>
 
-<img src="./tmp/print.png" alt="Print"/>
+<img src="./tmp/Print.png" alt="Print"/>
 
 <h2> 🚀 Techs </h2>
 <ul>
