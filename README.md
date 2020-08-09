@@ -8,12 +8,16 @@
 
 <p>A web foi desenvolvida utilizando a metodologia <strong>mobile first</strong>, assim já está preparado para suportar diferentes plataformas.<p>
 
+<p>Na aplicação é possível criar aulas, ver as aulas criadas, filtrar por matéria, dia da semana e horário.</p>
+
 <img src="./tmp/Print.png" alt="Print"/>
 
 <h2> 🚀 Techs </h2>
 <ul>
     <li>React</li>
     <li>Typescript</li>
+    <li>Node</li>
+    <li>Knex</li>
 </ul>
 
 <h2> 📗 License </h2>
